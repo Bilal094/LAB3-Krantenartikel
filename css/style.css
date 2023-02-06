@@ -1,0 +1,22 @@
+img {
+    border:solid 2px;
+}
+
+.image1{
+    float: left;
+    margin: 7px;
+}
+
+.image2{
+    float: right;
+    margin: 7px;
+}
+
+.image3{
+    float: left;
+    margin: 7px;
+}
+
+body{
+    background-color: #bcdede;
+}
